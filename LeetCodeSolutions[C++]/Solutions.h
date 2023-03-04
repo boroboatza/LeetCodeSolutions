@@ -15,6 +15,9 @@ public:
 	
 	//#4
 	double findMedianSortedArrays(vector<int>& nums1, vector<int>& nums2);
+
+	//#5
+	string longestPalindrome(string s);
 	
 	//#10
 	bool isMatch(string s, string p);
