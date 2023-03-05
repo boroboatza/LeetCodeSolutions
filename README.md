@@ -12,3 +12,4 @@ This repository contains my solutions to various LeetCode problems. Each problem
 | [12. Integer to Roman](https://leetcode.com/problems/integer-to-roman/) | [C++](./LeetCodeSolutions%5BC%2B%2B%5D/12.cpp) |
 | [28. Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) | [C++](./LeetCodeSolutions%5BC%2B%2B%5D/28.cpp) |
 | [43. Multiply Strings](https://leetcode.com/problems/multiply-strings/) | [C++](./LeetCodeSolutions%5BC%2B%2B%5D/43.cpp) |
+| [443. String Compression](https://leetcode.com/problems/string-compression/) | [C++](./LeetCodeSolutions%5BC%2B%2B%5D/443.cpp) |
