@@ -18,6 +18,9 @@
     <ClInclude Include="Solutions.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="ListNode.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="1.cpp">
@@ -45,6 +48,9 @@
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="443.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="23.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

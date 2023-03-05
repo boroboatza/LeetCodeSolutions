@@ -1,8 +1,10 @@
 #pragma once
+#include "ListNode.h"
 #include<iostream>
 #include<string>
 #include <vector>
 #include<unordered_map>
+#include <queue>
 using namespace std;
 class Solutions
 {
@@ -24,7 +26,9 @@ public:
 
 	//#12
 	string intToRoman(int num);
-	
+
+	//#23
+	ListNode* mergeKLists(vector<ListNode*>& lists);
 	//#28
 	int strStr(string haystack, string needle);
 

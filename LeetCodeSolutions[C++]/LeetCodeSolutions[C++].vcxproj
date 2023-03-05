@@ -127,12 +127,14 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClInclude Include="ListNode.h" />
     <ClInclude Include="Solutions.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="1.cpp" />
     <ClCompile Include="10.cpp" />
     <ClCompile Include="12.cpp" />
+    <ClCompile Include="23.cpp" />
     <ClCompile Include="28.cpp" />
     <ClCompile Include="3.cpp" />
     <ClCompile Include="4.cpp" />
