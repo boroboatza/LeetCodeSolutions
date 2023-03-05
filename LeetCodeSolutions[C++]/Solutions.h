@@ -21,6 +21,9 @@ public:
 	
 	//#10
 	bool isMatch(string s, string p);
+
+	//#12
+	string intToRoman(int num);
 	
 	//#28
 	int strStr(string haystack, string needle);
