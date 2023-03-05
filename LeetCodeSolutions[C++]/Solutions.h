@@ -30,6 +30,9 @@ public:
 
 	//#43
 	string multiply(string num1, string num2);
+
+	//#443
+	int compress(vector<char>& chars);
 	
 };
 
