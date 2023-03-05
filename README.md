@@ -10,6 +10,7 @@ This repository contains my solutions to various LeetCode problems. Each problem
 | [5. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [C++](./LeetCodeSolutions%5BC%2B%2B%5D/5.cpp) |
 | [10. Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/) | [C++](./LeetCodeSolutions%5BC%2B%2B%5D/10.cpp) |
 | [12. Integer to Roman](https://leetcode.com/problems/integer-to-roman/) | [C++](./LeetCodeSolutions%5BC%2B%2B%5D/12.cpp) |
+| [23. Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | [C++](./LeetCodeSolutions%5BC%2B%2B%5D/23.cpp) |
 | [28. Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) | [C++](./LeetCodeSolutions%5BC%2B%2B%5D/28.cpp) |
 | [43. Multiply Strings](https://leetcode.com/problems/multiply-strings/) | [C++](./LeetCodeSolutions%5BC%2B%2B%5D/43.cpp) |
 | [443. String Compression](https://leetcode.com/problems/string-compression/) | [C++](./LeetCodeSolutions%5BC%2B%2B%5D/443.cpp) |
