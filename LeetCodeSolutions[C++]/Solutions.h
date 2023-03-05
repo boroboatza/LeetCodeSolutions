@@ -24,6 +24,9 @@ public:
 	//#10
 	bool isMatch(string s, string p);
 
+	//#11
+	int maxArea(vector<int>& height);
+
 	//#12
 	string intToRoman(int num);
 
